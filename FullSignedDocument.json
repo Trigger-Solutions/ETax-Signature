@@ -1,0 +1,92 @@
+{"documents":[{
+  "dateTimeIssued": "2021-07-26T09:01:05Z",
+  "documentType": "I",
+  "documentTypeVersion": "1.0",
+  "extraDiscountAmount": 0.0,
+  "internalID": "LCG39602-1",
+  "invoiceLines": [
+    {
+      "description": "Light liquid paraffin Oil ( Origin India )",
+      "discount": {
+        "amount": 0.0,
+        "rate": 0.0
+      },
+      "internalCode": "100010164",
+      "itemCode": "10003761",
+      "itemType": "GS1",
+      "itemsDiscount": 0,
+      "netTotal": 182456.144,
+      "quantity": 8.0,
+      "salesTotal": 182456.144,
+      "taxableItems": [
+        {
+          "amount": 25543.86016,
+          "rate": 14.0,
+          "subType": "V009",
+          "taxType": "T1"
+        }
+      ],
+      "total": 208000.00416,
+      "totalTaxableFees": 0.0,
+      "unitType": "Ton",
+      "unitValue": {
+        "amountEGP": 22807.018,
+        "amountSold": 0.0,
+        "currencyExchangeRate": 0.0,
+        "currencySold": "EGP"
+      },
+      "valueDifference": 0
+    }
+  ],
+  "issuer": {
+    "address": {
+      "branchID": "0",
+      "buildingNumber": "27",
+      "country": "eg",
+      "governate": "Cairo",
+      "regionCity": "مصر الجديدة",
+      "street": "الحجاز"
+    },
+    "id": "401648087",
+    "name": "لايف كيميكالز جروب للاستيراد و التصدير",
+    "type": "B"
+  },
+  "netAmount": 182456.144,
+  "payment": {
+    "bankAccountIBAN": "",
+    "bankAccountNo": "",
+    "bankName": "",
+    "swiftCode": ""
+  },
+  "receiver": {
+    "address": {
+      "buildingNumber": "Egypt",
+      "country": "eg",
+      "governate": "Cairo",
+      "postalCode": "",
+      "regionCity": "Cairo",
+      "street": "Cairo"
+    },
+    "id": "310613639",
+    "name": "جي ام سي جلوبال ماركت كيريشنز‎",
+    "type": "B"
+  },
+  "salesOrderReference": "SAL-ORD-2021-LCG02374",
+  "taxTotals": [
+    {
+      "amount": 25543.86016,
+      "taxType": "T1"
+    }
+  ],
+  "taxpayerActivityCode": "4690",
+  "totalAmount": 208000.00416,
+  "totalDiscountAmount": 0.0,
+  "totalItemsDiscountAmount": 0,
+  "totalSalesAmount": 182456.144,
+  "signatures": [
+    {
+      "signatureType": "I",
+      "value": "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"
+    }
+  ]
+}]}
